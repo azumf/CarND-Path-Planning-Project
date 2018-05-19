@@ -85,3 +85,8 @@ Cost is increased for trajectories for lanes with slower traffic.
 Provides some preprocessing of vehicle data that is useful in the cost functions. They include intended_lane, final_lane, and distance_to_goal.
 ##### `calculate_cost()`
 computes the cost for a trajectory
+
+## Recorded video.
+Recorded video of my behaviour planner is uploaded yon YouTube, see:
+
+[https://youtu.be/7k3nEqDOvEw](https://youtu.be/7k3nEqDOvEw "Behaviour Planner Video")
